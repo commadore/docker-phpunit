@@ -1,6 +1,7 @@
 # PHPUnit Docker Container.
 FROM alpine:edge
-MAINTAINER Julien Breux <julien.breux@gmail.com>
+#based on Julien Breux <julien.breux@gmail.com> PHPUnit
+MAINTAINER Commadore
 
 ENV PEAR_PACKAGES foo
 
