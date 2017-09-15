@@ -1,5 +1,5 @@
 # PHPUnit Docker Container.
-FROM alpine:latest
+FROM alpine:3.5
 #based on Julien Breux <julien.breux@gmail.com> PHPUnit
 MAINTAINER Commadore
 
